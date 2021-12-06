@@ -11,9 +11,14 @@ Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré
 ### Je suis accessible depuis mon site web dans contact: [nadnone.ch](https://nadnone.ch)
 
 ## Vocabulaire
-- personnes en difficultés 
+- Personnes en difficultés 
     * `=` Personnes en difficultés de tout ordres dans les limites de leurs facultés cognitives.
-
+- Enseignant
+    * `=` un étudiant ayant la connaissances d'un chapitre ou d'une matière et pouvant l'enseigner.
+- Etudiant
+    * `=` Une personne physique membre de la personne morale
+- Kick
+    * `=` Ejecter une personne d'un salon de discussion. [Définition Wiktionary](https://fr.wiktionary.org/wiki/kicker#fr-verb-1)
 ## Objectifs
 
 - Aider les personnes en difficultés à accéder à l'enseignement, peu importe la matière et le sujet voulu.
@@ -46,5 +51,13 @@ Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré
 - L'argent reçue par la personne morale sert au maintient de celle-ci, à l'achat de supports de cours, et éventuellement à rénumérer les étudiants-enseignants qui ont atteind la limite de transaction. Et finallement si les finances de la personne morale la lui permettent, promouvoir ce système éducatif.
 
 - les groupes d'études (les classes) ne sont au maximum que de 15 personnes.
+
+- Une personne exclue d'un cours n'est pas bannie, elle pourra à tout moment rejoindre la même matière à une autre heure, cela s'apparentera plus à un `kick`, donc temporaire.
+
+- Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendre en compte ses certifications ou diplomes
+
+- L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé.
+
+## Schéma de fonctionnement
 
 ![](./mindmap_association_fonctionnement_du_système.svg)
