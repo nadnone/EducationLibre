@@ -8,6 +8,11 @@ Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré
     
     Libre à toute personne souhaitant la mettre en place d'utiliser ce repo GitHub afin de la déployer. 
 
+L'idée de ce projet est comme celui de [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent), imaginons une discipline. supposons que je souhaites étudier la trigonométrie mais que je ne connaisse absolument rien de cette discipline. Un professeur diplomé membre de l'association ou de la personne morale n'est pas disponible pour pouvoir m'apprendre cette discipline, mais il se trouve que d'autres étudiant savent cette discipline. L'un d'eux a le temps de me l'enseigner. d'autres étudiants veulent apprendre cettre branche des mathématiques. Alors l'étudiant volontaire pourra être évalué par le professeur, si il est considéré comme apte à donner le cours de trigonométrie, il pourra alors le faire aux autres étudiants. Ainsi les mathématiques sont divisé en petites branches qui peuvent être partagé plus facilement de pairs à pairs, comme avec [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
+
+Pour que le système fonctionne correctement, un système de crédit et placé pour que les étudiants ne fassent pas que apprendre mais participent également au système en enseignant ce qu'il savent et matraisent. Les disponiblité et l'accès à l'étude de la matière se retrouve démultiplié. Il est ainsi plus facile de voir ou revoir certaines sous-branche en fonction de nos propres connaissances.
+
+
 ### Je suis accessible depuis mon site web dans contact: [nadnone.ch](https://nadnone.ch)
 
 ## Vocabulaire
@@ -54,7 +59,7 @@ Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré
 
 - Une personne exclue d'un cours n'est pas bannie, elle pourra à tout moment rejoindre la même matière à une autre heure, cela s'apparentera plus à un `kick`, donc temporaire.
 
-- Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendre en compte ses certifications ou diplomes
+- Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendra en compte ses certifications ou diplomes
 
 - L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé.
 
