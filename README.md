@@ -42,6 +42,8 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 - **Groupe d'étude**
     * `=` Groupe de personnes souhaitant apprendre une discipline des sciences.
 
+- **Communication non-violente**
+    * `=` Protocol de communication humaine, inventé par Marshall B. Rosenberg [Source Wikipédia](https://fr.wikipedia.org/wiki/Communication_non_violente)
 
 ## Objectifs
 
@@ -56,7 +58,7 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 
 - Favoriser le lien social.
 
-## Résumé
+## Fonctionnement global, principes fondamentaux
 
 - La personne morale implique tout ses membres, qu'ils soient étudiants, étudiants-enseignants ou encore enseignants.
     * Une hierarchie peut-être envisageable pour autoriser les étudiants à devenir enseignants, tenir les bases de données de crédits des membres, gérer l'infrastructure de la personne morale.
@@ -86,30 +88,55 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 
     - Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendra en compte ses certifications ou diplomes
 
-    - L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé.
+    - L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé. Cela peut être un examen écrit, une évaluation orale, de un ou plusieurs enseignants pairs, Afin de garantir un système stable et une éducation de qualité.
 
     - Une fois le système stable, un système de points peut être instauré pour définir l'aptitude des enseignants à enseigner. 
 
         - La notation se fait par les étudiants-enseignants maitrisant ladite matières, si la note est bonne. L'enseignant peut enseigner, si elle est mauvaise. il n'est pas considéré comme maitrisant ladite matière. Il peut toutefois en enseigner une autre.
+
         - Le système de points remplace l'autorité de la personne morale à évaluer l'enseignant.
 
-- L'étudiant n'est pas évalué au préalable, il peut suivre n'importe quel cours, il est néanmoins responsable des prérequis qu'il doit connaitre au préalable. Si il dérange la leçon pour la raison qu'il ne connait pas une notion requise, il peut-être kick.
+- L'étudiant n'est pas évalué au préalable, il peut suivre n'importe quel cours, il est néanmoins responsable des prérequis qu'il doit connaitre avant la scéance. S'il dérange la leçon pour la raison qu'il ne connait pas une notion requise, il peut-être kick.
 
 - L'argent reçue par la personne morale sert au maintient de celle-ci, à l'achat de supports de cours, et éventuellement à rénumérer les étudiants-enseignants qui ont atteint la limite de transaction. Et finallement si les finances de la personne morale la lui permettent, promouvoir ce système éducatif.
 
     * L'étudiant-enseignant qui souhaite reçevoir rénumération ne le peut en principe pas. Il peut toutefois, quand les conditions financières de la personne morale sont favorables, échanger ses crédits obtenus par l'enseignement, dependant du taux fixé par la personne morale, ainsi que d'une limite à dépasser pour pouvoir débloquer la transaction.
 
-- les groupes d'études (les classes) ne sont au maximum que de 15 personnes.
+- les groupes d'études (confère séction vocabulaire) ne sont au maximum que de 15 personnes.
 
     * La communication non-violente est éxigée à chaque leçons, elle s'inscrit dans la charte de la personne morale.
     * le non respect du contrat social du groupe d'étude implique un kick.
 
+- Le stockage des informations telles que les crédits, les points de maitrise et d'aptitude à l'enseignement, les coordonés des membres, doivent satisfaire à une cybersécurité de dernière date. Un programme dédié et open-source est conçu à cet effet. Il en va de la pérénité ainsi que de la survie de ce système.
+    - les informations des membres doivent être limitées, Nom, Prénom, éventuellement un identifiant lié à une autre base de donnée ailleurs. Le tout est de limiter l'accès à trop d'informations en cas d'attaque.
+    
+    - Nous pouvons aussi imaginer un réseau interne fermé sur lequel se connectent les membres dans les locaux. Un rayon d'émission faible et une sécurité double (Mot de passe + validation SMS) avec impossibilité de connecter les machines connectés aux réseau entre-elles. 
+        - Le réseau ne doit servir que à la transaction des crédits et l'envoie de points.
+            - Personne ne doit pouvoir modifier les points ou les crédits de personne, le système doit être autonome. 
+                - C'est à dire que un matricule inscrit reçevra toujours ses crédits mensuels jusqu'à désinscription.
+                - Le système de points ne peut se baser uniquement sur un "+1" et "-1", il doit remplir une liste critères établis.
 
+        - Les coordonées des membres sont tenues dans une base de donnée à part, non connectée à la première, accessible à sécurité double, sur un nombre de machines limité. 
+
+            - Dans l'idéal, ladite machine ne devrait même pas pouvoir reçevoir de supports externes.
+
+        - Un matricule ou `identifiant` fait lien entre les deux bases de données.
+
+        - Un VPN est envisageable pour faire le pont entre une machine `étudiant-enseignant` et le réseau, tout en respectant les principes précédents.
+
+        - L'ajout d'un membre se fait donc en deux temps, d'abord par la base de donnée `coordonées`, puis plus tard dans le programme de transactions.
+            - Après une deadline (timeout), les membres inscrit qui ne participent plus sont automatiquement désinscrit
+            - L'ajout se fait via l'interface du Cloud, il n'est possible que d'ajouter ou de supprimer. la modification ne doit pas être possible via l'interface.
+
+- La subdivision de la personne morale est possible, j'appellerais ici ce processus un `fork`, nous pouvons imaginer un réseau de `fork`s indépendants les uns des autres, qui pourraient se fédérer ou non.
 
 ## Schémas de fonctionnement
 
 ### Fonctionnement du système de crédits
-![](./mindmap_association_fonctionnement_du_système.svg)
+![mindmap](./mindmap_association_fonctionnement_du_système.svg)
 
 ### Fonctionnement de la démultiplication des enseignants
-![](./demultiplication_des_enseignants.map.svg)
+![mindmap](./demultiplication_des_enseignants.map.svg)
+
+### Fonctionnement général du réseau informatique
+![schéma](Schéma_Réseau_pour_EducationLibre.svg)
