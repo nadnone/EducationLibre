@@ -10,16 +10,21 @@ Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré
 
     Je suis accessible depuis mon site web dans contact: https://nadnone.ch
 
+    Ce système est initialement pensé pour une association
+
 L'idée de ce système est le même que `BitTorrent`, imaginons une discipline. supposons que je souhaites étudier la trigonométrie mais que je ne connaisse absolument rien de cette discipline. Un professeur diplomé membre de l'association ou de la personne morale n'est pas disponible pour pouvoir m'apprendre cette discipline, mais il se trouve que d'autres étudiant savent cette discipline. L'un d'eux a le temps de me l'enseigner. d'autres étudiants veulent apprendre cettre branche des mathématiques. Alors l'étudiant volontaire pourra être évalué par le professeur, si il est considéré comme apte à donner le cours de trigonométrie, il pourra alors le faire aux autres étudiants. Ainsi les mathématiques sont divisé en petites branches qui peuvent être partagé plus facilement de pairs à pairs.
 
 Pour que le système fonctionne correctement, un système de crédit et placé pour que les étudiants ne fassent pas que apprendre mais participent également au système en enseignant ce qu'il savent et maitrisent. Les disponiblités et l'accès à l'étude de la matière se retrouvent démultipliés. Il est ainsi plus facile de voir ou revoir certaines sous-branches en fonction de nos propres connaissances.
 
+Ce système est évolutif et grandi en fonction de ses adhérents et de sa capacité.
+
+`Il faut voir ce système comme un patch, un sous système dans le système "société" qui fonctionnerait en parallèle du système éducatif classique.`
 
 ## Vocabulaire
 - Personnes en difficultés 
     * `=` Personnes en difficultés de tout ordres dans les limites de leurs facultés cognitives.
 - Enseignant
-    * `=` un étudiant ayant la connaissances d'un chapitre ou d'une matière et pouvant l'enseigner.
+    * `=` un étudiant ayant la connaissance d'un chapitre ou d'une matière et pouvant l'enseigner.
 - Etudiant
     * `=` Une personne physique membre de la personne morale
 - Kick
@@ -68,6 +73,11 @@ Pour que le système fonctionne correctement, un système de crédit et placé p
     - Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendra en compte ses certifications ou diplomes
 
     - L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé.
+
+    - Une fois le système stable, un système de points peut être instauré pour définir l'aptitude des enseignants à enseigner. 
+
+        - La notation se fait par les étudiants-enseignants maitrisant ladite matières, si la note est bonne. L'enseignant peut enseigner, si elle est mauvaise. il n'est pas considéré comme maitrisant ladite matière. Il peut toutefois en enseigner une autre.
+        - Le système de points remplace l'autorité de la personne morale à évaluer l'enseignant.
 
 - L'étudiant n'est pas évalué au préalable, il peut suivre n'importe quel cours, il est néanmoins responsable des prérequis qu'il doit connaitre au préalable. Si il dérange la leçon pour la raison qu'il ne connait pas une notion requise, il peut-être kick.
 
