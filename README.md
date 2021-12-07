@@ -8,12 +8,12 @@ Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré
     
     Libre à toute personne souhaitant la mettre en place d'utiliser ce repo GitHub afin de la déployer. 
 
-L'idée de ce projet est comme celui de [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent), imaginons une discipline. supposons que je souhaites étudier la trigonométrie mais que je ne connaisse absolument rien de cette discipline. Un professeur diplomé membre de l'association ou de la personne morale n'est pas disponible pour pouvoir m'apprendre cette discipline, mais il se trouve que d'autres étudiant savent cette discipline. L'un d'eux a le temps de me l'enseigner. d'autres étudiants veulent apprendre cettre branche des mathématiques. Alors l'étudiant volontaire pourra être évalué par le professeur, si il est considéré comme apte à donner le cours de trigonométrie, il pourra alors le faire aux autres étudiants. Ainsi les mathématiques sont divisé en petites branches qui peuvent être partagé plus facilement de pairs à pairs, comme avec [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
+    Je suis accessible depuis mon site web dans contact: https://nadnone.ch
 
-Pour que le système fonctionne correctement, un système de crédit et placé pour que les étudiants ne fassent pas que apprendre mais participent également au système en enseignant ce qu'il savent et matraisent. Les disponiblité et l'accès à l'étude de la matière se retrouve démultiplié. Il est ainsi plus facile de voir ou revoir certaines sous-branche en fonction de nos propres connaissances.
+L'idée de ce système est le même que `BitTorrent`, imaginons une discipline. supposons que je souhaites étudier la trigonométrie mais que je ne connaisse absolument rien de cette discipline. Un professeur diplomé membre de l'association ou de la personne morale n'est pas disponible pour pouvoir m'apprendre cette discipline, mais il se trouve que d'autres étudiant savent cette discipline. L'un d'eux a le temps de me l'enseigner. d'autres étudiants veulent apprendre cettre branche des mathématiques. Alors l'étudiant volontaire pourra être évalué par le professeur, si il est considéré comme apte à donner le cours de trigonométrie, il pourra alors le faire aux autres étudiants. Ainsi les mathématiques sont divisé en petites branches qui peuvent être partagé plus facilement de pairs à pairs.
 
+Pour que le système fonctionne correctement, un système de crédit et placé pour que les étudiants ne fassent pas que apprendre mais participent également au système en enseignant ce qu'il savent et matraisent. Les disponiblité et l'accès à l'étude de la matière se retrouvent démultipliés. Il est ainsi plus facile de voir ou revoir certaines sous-branches en fonction de nos propres connaissances.
 
-### Je suis accessible depuis mon site web dans contact: [nadnone.ch](https://nadnone.ch)
 
 ## Vocabulaire
 - Personnes en difficultés 
@@ -33,35 +33,54 @@ Pour que le système fonctionne correctement, un système de crédit et placé p
 - Aider les personnes actives ou non à accéder à l'éducation:
     * [Article 26 de la déclaration universelle des droits de l'homme](https://www.amnesty.ch/fr/themes/droits-humains/declaration-des-droits-de-l-homme)
 
-- Tester un système éducatif alternatif, celui-ci
+- Tester un système éducatif alternatif, celui-ci.
+
+- Favoriser le lien social.
 
 ## Résumé
 
+- La personne morale implique tout ses membres, qu'ils soient étudiants, étudiants-enseignants ou encore enseignants.
+    * Une hierarchie peut-être envisageable pour autoriser les étudiants à devenir enseignants, tenir les bases de données de crédits des membres, gérer l'infrastructure de la personne morale.
+
+- Aucun certificat ou diplome n'est distribué, les personnes voulant en obtenir un peuvent toutefois participer au système pour acquérir les connaissances nécessaires à l'examen de celui-ci dans le système étatique en place.
+
+- Aucune limitation n'est en principe à prévoire dans l'admission au système, toute personne devrait avoir le droit de suivre une leçon.
+    * Prenant en compte la réalité et la complexité humaine, ladite personne doit cependant respecter le contrat social du cours souhaité.
+
 - Le système fonctionne avec une monnaie virtuelles indépendante du système bancaire et dont les taux sont non-spéculatifs, fixé par une personne morale.
 
-- A chaque début de leçon, un contrat social est négocié, l'entité qui ne le respecte pas est exclue du cours.
+    * Les transactions doivent être non-modifiables.
+    * Un taux d'achat de crédits est fixé
+    * Un taux de vente crédits et une limite de droit à la transaction est fixé.
+    * Une cotisation annuelle offre à tout membre un nombre de crédits mensuel
+    * Si les conditions du système le permettent, l'échange de crédits entre pairs peut être envisageable.
+
+- A chaque début de leçon, un contrat social est négocié, l'entité qui ne le respecte pas est kick du cours.
+
+    * Une personne kick d'un cours n'est pas bannie, elle pourra à tout moment rejoindre la même matière à une autre heure, cela s'apparentera plus à un "kick informatique", donc temporaire.
+
+    * La négociation se fait entre l'enseignant et les étudiants du groupe, chaque groupe possède son propre contrat social.
 
 - Une personne incapable d'enseigner peut reçevoir des crédits virtuels en échange d'argent réelle à un taux accessible fixé par la personne morale.
 
 - L'étudiant peut devenir enseignant, l'enseignant peut devenir étudiant. Une évaluation des connaissances de l'enseignant potentiel dans la matière qu'il souhaite enseigner et faite au préalable par ses pairs.
 
-- L'étudiant n'est pas évalué au préalable, il peut suivre n'importe quel cours, il est quand même responsable des prérequis qu'il doit connaitre au préalable. Si il dérange la leçon pour la raison qu'il ne connait pas une notion requise, il peut-être exclu.
+    - Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendra en compte ses certifications ou diplomes
 
-- L'étudiant-enseignant qui souhaite reçevoir rénumération ne peut en principe pas. Il le peut néanmoins, quand les conditions financières de la personne morale sont favorable, échanger ses crédits obtenus par l'enseignement, dependant du taux fixé par la personne morale, ainsi que d'une limite à dépasser pour pouvoir débloquer la transaction.
+    - L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé.
 
-- Les transactions doivent être non-modifiables.
+- L'étudiant n'est pas évalué au préalable, il peut suivre n'importe quel cours, il est néanmoins responsable des prérequis qu'il doit connaitre au préalable. Si il dérange la leçon pour la raison qu'il ne connait pas une notion requise, il peut-être kick.
 
-- La communication non-violente est éxigée à chaque leçons, elle s'inscrit dans la charte de la personne morale.
+- L'argent reçue par la personne morale sert au maintient de celle-ci, à l'achat de supports de cours, et éventuellement à rénumérer les étudiants-enseignants qui ont atteint la limite de transaction. Et finallement si les finances de la personne morale la lui permettent, promouvoir ce système éducatif.
 
-- L'argent reçue par la personne morale sert au maintient de celle-ci, à l'achat de supports de cours, et éventuellement à rénumérer les étudiants-enseignants qui ont atteind la limite de transaction. Et finallement si les finances de la personne morale la lui permettent, promouvoir ce système éducatif.
+    * L'étudiant-enseignant qui souhaite reçevoir rénumération ne le peut en principe pas. Il peut toutefois, quand les conditions financières de la personne morale sont favorables, échanger ses crédits obtenus par l'enseignement, dependant du taux fixé par la personne morale, ainsi que d'une limite à dépasser pour pouvoir débloquer la transaction.
 
 - les groupes d'études (les classes) ne sont au maximum que de 15 personnes.
 
-- Une personne exclue d'un cours n'est pas bannie, elle pourra à tout moment rejoindre la même matière à une autre heure, cela s'apparentera plus à un `kick`, donc temporaire.
+    * La communication non-violente est éxigée à chaque leçons, elle s'inscrit dans la charte de la personne morale.
+    * le non respect du contrat social du groupe d'étude implique un kick.
 
-- Si la personne morale est trop restreinte pour pouvoir évaluer un enseignant, elle prendra en compte ses certifications ou diplomes
 
-- L'évaluation de l'enseignant potentiel devra être faite par des enseignants pairs ayant la maitrise de la matière et du sujet exigé.
 
 ## Schéma de fonctionnement
 
