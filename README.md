@@ -82,6 +82,10 @@ Pour que le système fonctionne correctement, un système de crédit et placé p
 
 
 
-## Schéma de fonctionnement
+## Schémas de fonctionnement
 
+### Fonctionnement du système de crédits
 ![](./mindmap_association_fonctionnement_du_système.svg)
+
+### Fonctionnement de la démultiplication des enseignants
+![](./demultiplication_des_enseignants.map.svg)
