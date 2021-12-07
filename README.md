@@ -110,23 +110,9 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 - Le stockage des informations telles que les crédits, les points de maitrise et d'aptitude à l'enseignement, les coordonés des membres, doivent satisfaire à une cybersécurité de dernière date. Un programme dédié et open-source est conçu à cet effet. Il en va de la pérénité ainsi que de la survie de ce système.
     - les informations des membres doivent être limitées, Nom, Prénom, éventuellement un identifiant lié à une autre base de donnée ailleurs. Le tout est de limiter l'accès à trop d'informations en cas d'attaque.
     
-    - Nous pouvons aussi imaginer un réseau interne fermé sur lequel se connectent les membres dans les locaux. Un rayon d'émission faible et une sécurité double (Mot de passe + validation SMS) avec impossibilité de connecter les machines connectés aux réseau entre-elles. 
-        - Le réseau ne doit servir que à la transaction des crédits et l'envoie de points.
-            - Personne ne doit pouvoir modifier les points ou les crédits de personne, le système doit être autonome. 
-                - C'est à dire que un matricule inscrit reçevra toujours ses crédits mensuels jusqu'à désinscription.
-                - Le système de points ne peut se baser uniquement sur un "+1" et "-1", il doit remplir une liste critères établis.
+    - L'idéal révé serait une solution BlockChain, que l'information ne puisse pas être modifié sans l'accord de la majorité des machines.
 
-        - Les coordonées des membres sont tenues dans une base de donnée à part, non connectée à la première, accessible à sécurité double, sur un nombre de machines limité. 
-
-            - Dans l'idéal, ladite machine ne devrait même pas pouvoir reçevoir de supports externes.
-
-        - Un matricule ou `identifiant` fait lien entre les deux bases de données.
-
-        - Un VPN est envisageable pour faire le pont entre une machine `étudiant-enseignant` et le réseau, tout en respectant les principes précédents.
-
-        - L'ajout d'un membre se fait donc en deux temps, d'abord par la base de donnée `coordonées`, puis plus tard dans le programme de transactions.
-            - Après une deadline (timeout), les membres inscrit qui ne participent plus sont automatiquement désinscrit
-            - L'ajout se fait via l'interface du Cloud, il n'est possible que d'ajouter ou de supprimer. la modification ne doit pas être possible via l'interface.
+    - Nous pouvons aussi imaginer un réseau interne fermé sur lequel se connectent les membres dans les locaux. Un rayon d'émission faible et une sécurité double (Mot de passe + validation SMS) avec impossibilité de connecter les machines connectés au réseau entre-elles. 
 
 - La subdivision de la personne morale est possible, j'appellerais ici ce processus un `fork`, nous pouvons imaginer un réseau de `fork`s indépendants les uns des autres, qui pourraient se fédérer ou non.
 
@@ -139,4 +125,4 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 ![mindmap](./demultiplication_des_enseignants.map.svg)
 
 ### Fonctionnement général du réseau informatique
-![schéma](Schéma_Réseau_pour_EducationLibre.svg)
+... à revoir
