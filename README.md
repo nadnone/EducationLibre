@@ -3,6 +3,7 @@
 
 Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré du modèle [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
 
+
 ## Préface
     Cette idée n'est qu'utopique pour le moment, n'ayant émergé que depuis peu dans mon ésprit. 
     
@@ -20,15 +21,28 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 
 `Il faut voir ce système comme un patch, un sous système dans le système "société" qui fonctionnerait en parallèle du système éducatif classique.`
 
+
 ## Vocabulaire
-- Personnes en difficultés 
+- **Personnes en difficultés**
     * `=` Personnes en difficultés de tout ordres dans les limites de leurs facultés cognitives.
-- Enseignant
-    * `=` un étudiant ayant la connaissance d'un chapitre ou d'une matière et pouvant l'enseigner.
-- Etudiant
-    * `=` Une personne physique membre de la personne morale
-- Kick
+
+- **Enseignant**
+    * `=` Un étudiant ayant la connaissance d'un chapitre ou d'une matière et pouvant l'enseigner.
+
+- **Etudiant**
+    * `=` Une personne physique membre de la personne morale.
+
+- **Kick**
     * `=` Ejecter une personne d'un salon de discussion. [Définition Wiktionary](https://fr.wiktionary.org/wiki/kicker#fr-verb-1)
+
+- **Contrat social**
+    * `=` Contrat oral ou écrit sur les comportements accepté ou refusé au sein d'un corp social. Perte de certaines libertés contre gains de pérénité.
+    Dans le cadre de ce système, le contrat social est soumis à celui de l'Etat, cependant, certains aspets peuvent être négociés, dans le cadre d'un groupe d'étude. [Définition Wikipédia](https://fr.wikipedia.org/wiki/Contractualisme)
+
+- **Groupe d'étude**
+    * `=` Groupe de personnes souhaitant apprendre une discipline des sciences.
+
+
 ## Objectifs
 
 - Aider les personnes en difficultés à accéder à l'enseignement, peu importe la matière et le sujet voulu.
