@@ -45,7 +45,7 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
     * `=` Groupe de personnes souhaitant apprendre une discipline des sciences.
 
 - **Communication non-violente**
-    * `=` Protocol de communication humaine, inventé par Marshall B. Rosenberg [Source Wikipédia](https://fr.wikipedia.org/wiki/Communication_non_violente)
+    * `=` Méthode de communication humaine, inventé par Marshall B. Rosenberg [Source Wikipédia](https://fr.wikipedia.org/wiki/Communication_non_violente)
 
 ## Objectifs
 
