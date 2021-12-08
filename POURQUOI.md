@@ -1,5 +1,5 @@
 # Pourquoi ?
-### Pour comprendre la conception de ce système il faut quelques prérequis.
+## Pour comprendre la conception de ce système il faut quelques prérequis.
 
 Tout d'abord, je vais parler de ma manière de concevoir les choses et non de ce qui peut être enseigné dans les milieux académiques, je ne suis pas académicien. 
 
