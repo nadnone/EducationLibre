@@ -3,6 +3,8 @@
 
 Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
 
+## Important
+- Ce projet n'est d'aucune idéologie propre, il a pour but d'être un patch, un sous-système fonctionnant en parallèle d'un autre.
 
 ## Préface
     Cette idée n'est qu'utopique pour le moment, n'ayant émergé que depuis peu dans mon ésprit. 
