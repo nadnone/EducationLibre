@@ -1,7 +1,7 @@
 # EducationLibre
  Projet d'un système d'éducation accessible et libre `En cours de développement...`
 
-Un système d'éducation autogéré adaptatif, évolutif et accessible. Inspiré du modèle [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
+Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
 
 
 ## Préface
@@ -36,7 +36,7 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
     * `=` Ejecter une personne d'un salon de discussion. [Définition Wiktionary](https://fr.wiktionary.org/wiki/kicker#fr-verb-1)
 
 - **Contrat social**
-    * `=` Contrat oral ou écrit sur les comportements accepté ou refusé au sein d'un corp social. Perte de certaines libertés contre gains de pérénité.
+    * `=` Contrat oral ou écrit sur les comportements acceptés ou refusés au sein d'un corp social. Perte de certaines libertés contre gains de pérénité.
     Dans le cadre de ce système, le contrat social est soumis à celui de l'Etat, cependant, certains aspets peuvent être négociés, dans le cadre d'un groupe d'étude. [Définition Wikipédia](https://fr.wikipedia.org/wiki/Contractualisme)
 
 - **Groupe d'étude**
@@ -125,4 +125,6 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 ![mindmap](./demultiplication_des_enseignants.map.svg)
 
 ### Fonctionnement général du réseau informatique
-... à revoir
+
+    Ceci est une possibilité, il peut y en avoir d'autres.
+![mindmap](./programme_de_transaction.svg)
