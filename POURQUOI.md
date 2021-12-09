@@ -25,4 +25,6 @@ Le système devra s’adapter, cette chose n’est pas prévisible à 100% Mais 
 
 Une augmentation de l'enseignement des personnes pourrait, à mon humble avis, avoir un effet bénéfique sur plusieurs plans de nos sociétés contemporaines.
 
+Ma pensée est aussi beaucoup influencé par le [Hacker Manifesto](https://fr.wikipedia.org/wiki/Manifeste_du_hacker)
+
 **En résumé, voilà pourquoi EducationLibre.**
