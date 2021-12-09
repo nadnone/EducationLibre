@@ -18,6 +18,9 @@ Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle
 # Tout d'abord, pourquoi ?
 - [Ici vous trouverez une explication de mon raisonnement personnel](./POURQUOI.md)
 
+# Introduction
+ - [En annexe depuis ici](./INTRODUCTION.md)
+
 # Comment ?
 L'idée de ce système est le même que `BitTorrent`, imaginons une discipline. supposons que je souhaites étudier la trigonométrie mais que je ne connaisse absolument rien de cette discipline. Un professeur diplomé membre de l'association ou de la personne morale n'est pas disponible pour pouvoir m'apprendre cette discipline, mais il se trouve que d'autres étudiant savent cette discipline. L'un d'eux a le temps de me l'enseigner. d'autres étudiants veulent apprendre cettre branche des mathématiques. Alors l'étudiant volontaire pourra être évalué par le professeur, si il est considéré comme apte à donner le cours de trigonométrie, il pourra alors le faire aux autres étudiants. Ainsi les mathématiques sont divisé en petites branches qui peuvent être partagé plus facilement de pairs à pairs.
 
