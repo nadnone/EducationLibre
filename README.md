@@ -85,6 +85,11 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 
 # Checklist
 - [ ] Documenter le projet
-- [ ] Faire une simulation 
+- [ ] Trouver des adhérents
+- [ ] Faire des simulations
 - [ ] Créer un prototype réel
+    - [ ] Créer un serveur de traitement de credits et éventuellement de points
+    - [ ] Créer une interface de gestion web
+    - [ ] Faire une API accessible et une application pour y faciliter l'accès
+    - [ ] Fonder une association prototype
 - [ ] ...
