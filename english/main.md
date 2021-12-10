@@ -18,10 +18,10 @@ A reachable, evolving and free system inspired from [BitTorrent procotol](https:
     I will be happy if somone help me to translate this project in his own language and of course in English
 
 # First, Why ?
-- [Here you can find the explaination of my own reasoning](./INTRODUCTION.md)
+- [Here you can find the explaination of my own reasoning](./EXPLAINATION.md)
 
 # Introduction
-- [in annex from here]()
+- [in annex from here](./INTRODUCTION.md)
 
 # How ?
 The idea of this system is the same as `BitTorrent`, imagine a discipline, suppose that I want to study trigonometry but I know nothing about this. A teacher with diploma member of the system is busy and can't teach me this school branch, but a random study from the association or system is ok to teach me this thema. First the initial teacher will test his aptitude to teach. Second, if he pass, he can teach this subbranch of mathematics to others students. Thus, mathematics are subdivided in multiple subbranches which a lot of subdivied teachers can teach this subbranches to others studants. We can tell this system is a Mesh of teachers.
@@ -68,7 +68,7 @@ This system is evolving and grow depending their members and its capacity.
 - Enhance social link
 
 ## Fundamental principle, general working
-- [More informations here](./english/FUNDAMENTALS.md)
+- [More informations here](./FUNDAMENTALS.md)
 
 # Working diagram
 - to continue... ([You can see French diagram here](../README.md))
