@@ -3,6 +3,11 @@
 
 Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle [BitTorrent](https://fr.wikipedia.org/wiki/BitTorrent).
 
+
+# Traductions (translations)
+- [English version](./english/main.md)
+
+
 # Important
 - Ce projet n'est d'aucune idéologie propre, il a pour but d'être un patch, un sous-système fonctionnant en parallèle d'un autre.
 
@@ -14,6 +19,8 @@ Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle
     Je suis accessible depuis mon site web dans contact: https://nadnone.ch
 
     Ce système est initialement pensé pour une association
+
+    Je serais heureux si vous m'aidiez à traduire ce projet dans votre langue d'origine et bien-sûr en englais.
 
 # Tout d'abord, pourquoi ?
 - [Ici vous trouverez une explication de mon raisonnement personnel](./POURQUOI.md)
@@ -89,7 +96,7 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 - [ ] Faire des simulations
 - [ ] Créer un prototype réel
     - [ ] Créer un serveur de traitement de credits et éventuellement de points
-    - [ ] Créer une interface de gestion web
+    - [ ] Créer une interface de gestion
     - [ ] Faire une API accessible et une application pour y faciliter l'accès
     - [ ] Fonder une association prototype
 - [ ] ...
