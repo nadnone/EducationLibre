@@ -15,7 +15,13 @@ A reachable, evolving and free system inspired from [BitTorrent procotol](https:
 
     This system was initially thinked for an association
 
-    I will be happy if somone help me to translate this project in his own language and of course in English
+    I will be happy if:
+    1. poeple help me to translate this project in his own language and of course in English
+    2. poeple who know multi-agents system could make a simulation of my system.
+    3. giving me return about this system, suggest enhancements.
+    4. poeple who take care of Design, attractivity, suggest me some advices.
+
+
 
 # First, Why ?
 - [Here you can find the explaination of my own reasoning](./EXPLAINATION.md)

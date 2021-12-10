@@ -19,8 +19,12 @@ Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle
     Je suis accessible depuis mon site web dans contact: https://nadnone.ch
 
     Ce système est initialement pensé pour une association
-
-    Je serais heureux si vous m'aidiez à traduire ce projet dans votre langue d'origine et bien-sûr en anglais.
+    
+    Je serais heureux si vous m'aidiez:
+    1. à traduire ce projet dans votre langue d'origine et bien-sûr en anglais.
+    2. Si une personne interessée sait faire des simulations de système multi-agents, en faire une de mon système.
+    3. Me donner des retours, proposer des améliorations.
+    4. S'occuper du côté attractif. 
 
 # Tout d'abord, pourquoi ?
 - [Ici vous trouverez une explication de mon raisonnement personnel](./POURQUOI.md)
