@@ -20,7 +20,7 @@ Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle
 
     Ce système est initialement pensé pour une association
 
-    Je serais heureux si vous m'aidiez à traduire ce projet dans votre langue d'origine et bien-sûr en englais.
+    Je serais heureux si vous m'aidiez à traduire ce projet dans votre langue d'origine et bien-sûr en anglais.
 
 # Tout d'abord, pourquoi ?
 - [Ici vous trouverez une explication de mon raisonnement personnel](./POURQUOI.md)
