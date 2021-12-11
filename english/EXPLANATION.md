@@ -11,7 +11,7 @@ Now let see an other random system, let say electric system. What could be happe
 
 Let see now the society system, this is a sub-sytem of another, by exemple. European Union is the over-system of the 27 nations which group in. This 27 nations have an influcence to the over-system which must adapt itself to the 27 sub-systems. There's an interact with the over-system and the sub-systems. This over-system is itself the sub-system of our Earth, some international orgnisations and more and more.
 
-In this systems, there's millions, billions of sub-systems which are the primitives, of courses there's itself composed of others sub-primitives. This first primitives, this is all of us, the humans. This humans have themself their own over-system composed of their own strategy. Some could cheat, others could be perfectly legals, and finally, other could be hybrid. [I speak here about the quilibrium of John Forbes Nash.](https://en.wikipedia.org/wiki/Nash_equilibrium).
+In this systems, there's millions, billions of sub-systems which are the primitives, of courses there's itself composed of others sub-primitives. This first primitives, this is all of us, the humans. This humans have themself their own over-system composed of their own strategy. Some could cheat, others could be perfectly legals, and finally, other could be hybrid. [I speak here about the equilibrium of John Forbes Nash.](https://en.wikipedia.org/wiki/Nash_equilibrium)
 
 Now, let's interest to the system I wish to patch, the study system. Itself sub-system of politic system, itself sub-sytem of all its citizens. So, there's too much system to quote.
 
@@ -23,6 +23,6 @@ In computer sciences, when a program work a little bit fine but we can enhance i
 My concept could make the same, but with education, teacher find themself subdivided, the share of a segment of school branches are more accessibles.
 The over-system should adapt itself to the sub-system, this thing is not predictable at 100%. But I think this sub-system could grow, reduce itself, disapear, or be stable. The idea is the test it and observe. This change not fundamentally the initial system, institutions are still there, but the educations access is easier.
 
-A grow of education of poeple could, in my humnble think, have a lot of benefice in few way of ours current society.
+A grow of education of poeple could, in my humble think, have a lot of benefice in few ways of ours current societies.
 
 **In resume, that's why, EducationLibre.**
