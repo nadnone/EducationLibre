@@ -9,3 +9,7 @@
 
 ## Thank's to
 - [Khodok](https://github.com/Khoding) for some translations
+
+
+## This system could be combined with
+- [Richard Feynmann education method](https://en.wikipedia.org/wiki/Richard_Feynman#Pedagogy)
