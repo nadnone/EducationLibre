@@ -11,7 +11,7 @@ Maintenant voyons un autre système aléatoire, disons un système électrique. 
 
 Voyons maintenant le système société, c’est le sous-système d’un autre, par exemple L’union européenne est le sur-système des 27 nations qui le regroupe. Ces 27 nations ont une influence dans ce sur-système qui doit s’adapter à tous ses sous-systèmes. Il y a une interaction entre les sous-système et le sur-système, l’un s’adapte à l'autre. ce sur-système est lui-même sous-système de notre planète, de certaines organisations mondiales et j’en passe.
 
-Dans ces systèmes il y a des millions, des milliards de sous-systèmes qui en sont les primitives, bien-sur ces primitives sont elles même composées d’autres primitives à un niveau plus bas. Ces premières primitives, se sont nous, les êtres humains. Ces êtres humains ont chacun leur sur-système propre composé d’une stratégie propre. Certains vont tricher, d’autres vont vouloir être parfaitement légal. d’autres encore sont hybrides. [Je fais analogie ici à la théorie des jeux de John Forbes Nash.](https://fr.wikipedia.org/wiki/%C3%89quilibre_de_Nash)
+Dans ces systèmes il y a des millions, des milliards de sous-systèmes qui en sont les primitives, bien-sur ces primitives sont elles même composées d’autres primitives à un niveau plus bas. Ces premières primitives, se sont nous, les êtres humains. Ces êtres humains ont chacun leur sur-système propre composé d’une stratégie propre. Certains vont tricher, d’autres vont vouloir être parfaitement légal. d’autres encore sont hybrides. [Je fais analogie ici à la théorie des jeux de John Forbes Nash.](https://fr.wikipedia.org/wiki/%C3%89quilibre_de_Nash).
 
 Maintenant intéressons nous au système que je souhaite patcher, le système éducatif. Lui-même est sous-système d’un système politique, lui-même sur-système de l’ensemble de ses citoyens, bref il y a trop de systèmes à citer.
 
@@ -24,7 +24,5 @@ Mon concept ferait la même chose, mais avec l’éducation, les professeurs se 
 Le système devra s’adapter, cette chose n’est pas prévisible à 100% Mais je pense que ce sous-système, peut grandir, se réduire, disparaître, ou rester stable. L’idée étant de le tester et d’observer. Il ne change pas fondamentalement le système initial, les institutions restent là, mais l’accès à l’éducation est plus facile.
 
 Une augmentation de l'enseignement des personnes pourrait, à mon humble avis, avoir un effet bénéfique sur plusieurs plans de nos sociétés contemporaines.
-
-Ma pensée est aussi beaucoup influencé par le [Hacker Manifesto](https://fr.wikipedia.org/wiki/Manifeste_du_hacker)
 
 **En résumé, voilà pourquoi EducationLibre.**

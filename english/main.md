@@ -1,4 +1,4 @@
-# Free Education
+# EducationLibre
 accessible, scalable and free education system project `still under development`
 
 A accessible, scalable and free system inspired by [BitTorrent procotol](https://en.wikipedia.org/wiki/BitTorrent)
