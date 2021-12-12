@@ -46,7 +46,7 @@ This system is evolving and grow depending their members and its capacity.
     - `=` A student who has knowledge of a chapter or a branch of sciences and teaches it.
 
 - **Student**
-    - `=` An person, member of this system.
+    - `=` A person, member of this system.
 
 - **Kick**
     - `=` [the internet meaning of kick](https://en.wikipedia.org/wiki/List_of_Internet_Relay_Chat_commands#KICK)
