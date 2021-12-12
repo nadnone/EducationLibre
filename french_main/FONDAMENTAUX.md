@@ -1,19 +1,19 @@
 ## Fonctionnement global, principes fondamentaux
 
-- La personne morale implique tout ses membres, qu'ils soient étudiants, étudiants-enseignants ou encore enseignants.
-    * Une hierarchie peut-être envisageable pour autoriser les étudiants à devenir enseignants, tenir les bases de données de crédits des membres, gérer l'infrastructure de la personne morale.
+- La personne morale implique tous ses membres, qu'ils soient étudiants, étudiants-enseignants ou encore enseignants.
+    * Une hiérarchie peut-être envisageable pour autoriser les étudiants à devenir enseignants, tenir les bases de données de crédits des membres, gérer l'infrastructure de la personne morale.
 
 - Aucun certificat ou diplome n'est distribué, les personnes voulant en obtenir un peuvent toutefois participer au système pour acquérir les connaissances nécessaires à l'examen de celui-ci dans le système étatique en place.
 
 - Aucune limitation n'est en principe à prévoire dans l'admission au système, toute personne devrait avoir le droit de suivre une leçon.
     * Prenant en compte la réalité et la complexité humaine, ladite personne doit cependant respecter le contrat social du cours souhaité.
 
-- Le système fonctionne avec une monnaie virtuelles indépendante du système bancaire et dont les taux sont non-spéculatifs, fixé par une personne morale.
+- Le système fonctionne avec une monnaie virtuelle indépendante du système bancaire et dont les taux sont non-spéculatifs, fixés par une personne morale.
 
     * Les transactions doivent être non-modifiables.
     * Un taux d'achat de crédits est fixé
-    * Un taux de vente crédits et une limite de droit à la transaction est fixé.
-    * Une cotisation annuelle offre à tout membre un nombre de crédits mensuel
+    * Un taux de vente de crédits et une limite de droit à la transaction sont fixé.
+    * Une cotisation annuelle offre à tout membre un nombre de crédits mensuels
     * Si les conditions du système le permettent, l'échange de crédits entre pairs peut être envisageable.
 
 - A chaque début de leçon, un contrat social est négocié, l'entité qui ne le respecte pas est kick du cours.
