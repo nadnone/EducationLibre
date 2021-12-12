@@ -20,7 +20,8 @@ Un système d'éducation adaptatif, évolutif et accessible. Inspiré du modèle
     1. à traduire ce projet dans votre langue d'origine et bien-sûr en anglais.
     2. Si une personne interessée sait faire des simulations de système multi-agents, en faire une de mon système.
     3. Me donner des retours, proposer des améliorations.
-    4. S'occuper du côté attractif. 
+    4. S'occuper du côté attractif.
+    5. M'aider à rendre ce document plus académiquement éligible.
 
 # Tout d'abord, pourquoi ?
 - [Ici vous trouverez une explication de mon raisonnement personnel](./POURQUOI.md)

@@ -20,6 +20,7 @@ A accessible, scalable and free system inspired by [BitTorrent procotol](https:/
     2. You could make a simulation of my system using multi-agents system.
     3. You could give me feedbacks about this system, or suggest enhancements.
     4. You could help working on the Design, feel free to give me some advice.
+    5. You could help me to make this document more academically eligible. 
 
 
 
