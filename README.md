@@ -1,5 +1,15 @@
 # EducationLibre
 
+> WARNING I seen others links on internet about this idea. Thus, I don't seem to be the first to think as it. Like:
+- [https://www.continu.com/blog/peer-to-peer-learning](https://www.continu.com/blog/peer-to-peer-learning)
+- [https://www.p2pu.org/en/](https://www.p2pu.org/en/)
+- [https://p2peducation.com.au/](https://p2peducation.com.au/)
+- and probably more..
+
+> If you agree with this concept, you still can use this document.
+
+---------
+
  This project is splitted in both languages, which are French and English. First because it was initially wrote in French, second because English is more spoken than French and I know a little bit of this language.
 
     I would be happy if:
