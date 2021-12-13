@@ -10,6 +10,7 @@
 
 
 - L’égalité des chances à l’école n’existe pas : Bourdieu, Passeron – Sociologie #01, par [Osons Causer](https://www.osonscauser.com/)
+
     [https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/](https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/)
 
 - Les toplogies, par [Vince](https://zestedesavoir.com/@Vince)
@@ -37,7 +38,7 @@
     
     [https://www.youtube.com/watch?v=bIjRxdN-kL8](https://www.youtube.com/watch?v=bIjRxdN-kL8)
 
-- Déclaration universelle des droits de l'homme, 1948. Nation unies
+- Déclaration universelle des droits de l'homme, 1948. Nations unies
 
     [https://www.un.org/fr/universal-declaration-human-rights/](https://www.un.org/fr/universal-declaration-human-rights/)
 
