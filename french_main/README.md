@@ -80,16 +80,7 @@ Ce système est évolutif et grandi en fonction de ses adhérents et de sa capac
 
 # Schémas de fonctionnement
 
-## Fonctionnement du système de crédits
-![mindmap](./mindmap_association_fonctionnement_du_système.svg)
-
-## Fonctionnement de la démultiplication des enseignants
-![mindmap](./demultiplication_des_enseignants.map.svg)
-
-## Fonctionnement général du réseau informatique
-
-    Ceci est une possibilité, il peut y en avoir d'autres.
-![mindmap](./programme_de_transaction.svg)
+- [Plus d'information en annexe](./SCHEMAS.md)
 
 # Checklist
 - [ ] Documenter le projet
