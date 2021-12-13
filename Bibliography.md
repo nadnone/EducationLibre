@@ -13,7 +13,7 @@
 
     [https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/](https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/)
 
-- Les toplogies, par [Vince](https://zestedesavoir.com/@Vince)
+- Les topologies, par [Vince](https://zestedesavoir.com/@Vince)
 
     [https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/les-topologies/](https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/les-topologies/)
 
@@ -30,7 +30,7 @@
     [https://youtu.be/spdWp7ocFgE](https://youtu.be/spdWp7ocFgE)
 
 
--  Définition de contrat social, [La Toupie](https://www.toupie.org/Divers/Contact.htm)
+-  Définition de contrat social, par [La Toupie](https://www.toupie.org/Divers/Contact.htm)
 
     [https://www.toupie.org/Dictionnaire/Contrat_social.htm](https://www.toupie.org/Dictionnaire/Contrat_social.htm)
 
@@ -46,10 +46,18 @@
 
     [https://www.unine.ch/unine/home/admission/admissionBachelor/candidats-suisses-sans-certifica.html](https://www.unine.ch/unine/home/admission/admissionBachelor/candidats-suisses-sans-certifica.html)
 
-- Examen d'admission, EPFL
+- Examen d'admission, Ecole polytechnique fédérale de Lausanne
 
     [https://www.epfl.ch/education/admission/fr/admission/conditions-dadmission-inscription-bachelor/examens-dadmission/](https://www.epfl.ch/education/admission/fr/admission/conditions-dadmission-inscription-bachelor/examens-dadmission/)
 
 -  Richard Feynman, par [futura-sciences](https://www.futura-sciences.com)
 
     [https://www.futura-sciences.com/sciences/personnalites/physique-richard-feynman-231/](https://www.futura-sciences.com/sciences/personnalites/physique-richard-feynman-231/)
+
+- Jeu de la confiance, Jeu instructif de la théorie des jeux.
+
+    Français: [https://github.com/Ayowel/trust](https://github.com/Ayowel/trust)
+    - Jeu: [https://ayowel.github.io/trust/](https://ayowel.github.io/trust/)
+
+    Anglais (version originale): [https://github.com/ncase/trust](https://github.com/ncase/trust)
+    - Jeu: [https://ncase.me/trust/](https://ncase.me/trust/)
