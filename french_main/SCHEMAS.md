@@ -15,5 +15,5 @@
 
 ![schéma 1](./res/arborescence_demultriplication.jpg)
 
-![schéma 1](./res/demultiplication_p.jpg)
+![schéma 2](./res/demultiplication_p.jpg)
 

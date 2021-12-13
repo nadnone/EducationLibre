@@ -29,3 +29,8 @@
 > A person who never made a mistake never tried anything new.
 
 **Albert Einstein**
+
+> It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.
+
+**Richard P. Feynman**
+(that's why I really need experiment and simulations)
