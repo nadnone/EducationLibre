@@ -1,63 +1,61 @@
 # Bibliographie
  
-- La théorie de Jeux, par David Louapre
-
-    [https://scienceetonnante.com/2017/03/03/la-theorie-des-jeux/](https://scienceetonnante.com/2017/03/03/la-theorie-des-jeux/).
-
-- Understanding bittorrent protocol, par Tarun Vellishetty
-
-    [https://www.beautifulcode.co/blog/58-understanding-bittorrent-protocol](https://www.beautifulcode.co/blog/58-understanding-bittorrent-protocol)
 
 
-- L’égalité des chances à l’école n’existe pas : Bourdieu, Passeron – Sociologie #01, par [Osons Causer](https://www.osonscauser.com/)
+- Bittorent Protocol
 
-    [https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/](https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/)
-
-- Les topologies, par [Vince](https://zestedesavoir.com/@Vince)
-
-    [https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/les-topologies/](https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/les-topologies/)
-
-- Examen suisse de maturitée
-
-    [https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-gymnasiale/examen-suisse-de-maturite.html](https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-gymnasiale/examen-suisse-de-maturite.html)
-
-- 4.2.8 Kick command, par Jarkko Oikarinen
-
-    [https://datatracker.ietf.org/doc/html/rfc1459#section-4.2.8](https://datatracker.ietf.org/doc/html/rfc1459#section-4.2.8)
-
-- Rousseau - Du Contrat Social - De Dicto #7, par [Politikon](https://www.youtube.com/channel/UC0HxyEc_ojRJ1oJXS5K6oaA)
-
-    [https://youtu.be/spdWp7ocFgE](https://youtu.be/spdWp7ocFgE)
+    - [https://www.beautifulcode.co/blog/58-understanding-bittorrent-protocol](https://www.beautifulcode.co/blog/58-understanding-bittorrent-protocol)
+    - https://www.bittorrent.com/fr/
+    - https://fr.wikipedia.org/wiki/BitTorrent
 
 
--  Définition de contrat social, par [La Toupie](https://www.toupie.org/Divers/Contact.htm)
 
-    [https://www.toupie.org/Dictionnaire/Contrat_social.htm](https://www.toupie.org/Dictionnaire/Contrat_social.htm)
+- L’égalité des chances à l’école n’existe pas
 
-- Communication non violente avec Marshall Rosenberg 3h00 en français
-    
-    [https://www.youtube.com/watch?v=bIjRxdN-kL8](https://www.youtube.com/watch?v=bIjRxdN-kL8)
+    - [https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/](https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/)
+
+- Les topologies réseau
+
+    - [https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/les-topologies/](https://zestedesavoir.com/tutoriels/2789/les-reseaux-de-zero/le-concept-et-les-bases/les-topologies/)
+    - https://fr.wikipedia.org/wiki/Topologie_de_r%C3%A9seau
+
+- Définition informatique de Kick
+
+    - [https://datatracker.ietf.org/doc/html/rfc1459#section-4.2.8](https://datatracker.ietf.org/doc/html/rfc1459#section-4.2.8)
+
+
+-  Contrat social
+
+    - [https://www.toupie.org/Dictionnaire/Contrat_social.htm](https://www.toupie.org/Dictionnaire/Contrat_social.htm)
+    - [https://youtu.be/spdWp7ocFgE](https://youtu.be/spdWp7ocFgE)
 
 - Déclaration universelle des droits de l'homme, 1948. Nations unies
 
-    [https://www.un.org/fr/universal-declaration-human-rights/](https://www.un.org/fr/universal-declaration-human-rights/)
+    - [https://www.un.org/fr/universal-declaration-human-rights/](https://www.un.org/fr/universal-declaration-human-rights/)
+    - https://www.amnesty.ch/fr/themes/droits-humains/declaration-des-droits-de-l-homme
 
-- Candidats suisses sans certificats de maturité, Université de Neuchâtel
+- Examen d'admission
 
-    [https://www.unine.ch/unine/home/admission/admissionBachelor/candidats-suisses-sans-certifica.html](https://www.unine.ch/unine/home/admission/admissionBachelor/candidats-suisses-sans-certifica.html)
+    - [https://www.epfl.ch/education/admission/fr/admission/conditions-dadmission-inscription-bachelor/examens-dadmission/](https://www.epfl.ch/education/admission/fr/admission/conditions-dadmission-inscription-bachelor/examens-dadmission/)
+    - [https://www.unine.ch/unine/home/admission/admissionBachelor/candidats-suisses-sans-certifica.html](https://www.unine.ch/unine/home/admission/admissionBachelor/candidats-suisses-sans-certifica.html)
+    - [https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-gymnasiale/examen-suisse-de-maturite.html](https://www.sbfi.admin.ch/sbfi/fr/home/formation/maturite/maturite-gymnasiale/examen-suisse-de-maturite.html)
 
-- Examen d'admission, Ecole polytechnique fédérale de Lausanne
+-  Richard Feynman
 
-    [https://www.epfl.ch/education/admission/fr/admission/conditions-dadmission-inscription-bachelor/examens-dadmission/](https://www.epfl.ch/education/admission/fr/admission/conditions-dadmission-inscription-bachelor/examens-dadmission/)
+    - [https://www.futura-sciences.com/sciences/personnalites/physique-richard-feynman-231/](https://www.futura-sciences.com/sciences/personnalites/physique-richard-feynman-231/)
 
--  Richard Feynman, par [futura-sciences](https://www.futura-sciences.com)
+- Théorie des Jeux
 
-    [https://www.futura-sciences.com/sciences/personnalites/physique-richard-feynman-231/](https://www.futura-sciences.com/sciences/personnalites/physique-richard-feynman-231/)
+    - Français: [https://github.com/Ayowel/trust](https://github.com/Ayowel/trust)
+        - Jeu: [https://ayowel.github.io/trust/](https://ayowel.github.io/trust/)
 
-- Jeu de la confiance, Jeu instructif de la théorie des jeux.
+    - Anglais (version originale): [https://github.com/ncase/trust](https://github.com/ncase/trust)
+        - Jeu: [https://ncase.me/trust/](https://ncase.me/trust/)
 
-    Français: [https://github.com/Ayowel/trust](https://github.com/Ayowel/trust)
-    - Jeu: [https://ayowel.github.io/trust/](https://ayowel.github.io/trust/)
+    - [https://scienceetonnante.com/2017/03/03/la-theorie-des-jeux/](https://scienceetonnante.com/2017/03/03/la-theorie-des-jeux/).
 
-    Anglais (version originale): [https://github.com/ncase/trust](https://github.com/ncase/trust)
-    - Jeu: [https://ncase.me/trust/](https://ncase.me/trust/)
+- Communication non violente
+    - https://fr.wikipedia.org/wiki/Communication_non_violente
+    - [https://www.youtube.com/watch?v=bIjRxdN-kL8](https://www.youtube.com/watch?v=bIjRxdN-kL8)
+    - https://www.cnvsuisse.ch/la-cnv/marshall-b-rosenberg/
+    - https://www.psychologies.com/Moi/Moi-et-les-autres/Relationnel/Articles-et-Dossiers/Tout-conflit-peut-se-transformer-en-un-dialogue-paisible
