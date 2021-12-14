@@ -27,6 +27,7 @@
 
 ## Thank's to
 - [Khodok](https://github.com/Khoding) for some translations
+- [Victor B.](https://github.com/victorbnl) for some corrections
 
 
 ## This system could be combined with
