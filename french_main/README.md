@@ -32,7 +32,7 @@ Un système d'éducation adaptatif, évolutif et accessible, inspiré du modèle
 # Comment ?
 L'idée de ce système est le même que `BitTorrent`, imaginons une discipline. Supposons que je souhaite étudier la trigonométrie mais que je ne connaisse absolument rien de cette discipline. Un professeur diplomé membre de l'association ou de la personne morale n'est pas disponible pour me l’enseigner, mais il se trouve que d'autres étudiant la maîtrisent. L'un d'eux a le temps de me l'enseigner. D'autres étudiants désirent apprendre cettre branche des mathématiques. Alors l'étudiant volontaire pourra être évalué par le professeur, et si il est considéré comme apte à donner le cours de trigonométrie, il pourra alors le faire aux autres étudiants. Ainsi les mathématiques sont divisées en petites branches qui peuvent être partagées plus facilement de pairs à pairs.
 
-Pour que le système fonctionne correctement, un système de crédit est placé pour que les étudiants ne fassent pas qu’apprendre mais participent également au système en enseignant ce qu'il savent et maitrisent. Les disponiblités et l'accès à l'étude de la matière se retrouvent décuplés. Il est ainsi plus facile de voir ou revoir certaines sous-branches en fonction de ses propres connaissances.
+Pour que le système fonctionne correctement, un système de crédit est placé pour que les étudiants ne fassent pas qu’apprendre mais participent également au système en enseignant ce qu'il savent et maitrisent. Les disponiblités et l'accès à l'étude de la matière se retrouvent démultipliés. Il est ainsi plus facile de voir ou revoir certaines sous-branches en fonction de ses propres connaissances.
 
 Ce système est évolutif et grandit en fonction de ses adhérents et de son utilisation.
 
