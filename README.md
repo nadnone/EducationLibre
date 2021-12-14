@@ -4,6 +4,7 @@
 - [https://www.continu.com/blog/peer-to-peer-learning](https://www.continu.com/blog/peer-to-peer-learning)
 - [https://www.p2pu.org/en/](https://www.p2pu.org/en/)
 - [https://p2peducation.com.au/](https://p2peducation.com.au/)
+- https://www.capetowndeclaration.org/
 - and probably more..
 
 > If you agree with this concept, you still can use this document.
