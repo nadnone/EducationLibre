@@ -11,6 +11,9 @@
 
 ---------
 
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Contrat Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Ce(tte) création est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Licence Creative Commons Paternité 4.0 International</a>.
+
+
  This project is splitted in both languages, which are French and English. First because it was initially wrote in French, second because English is more spoken than French and I know a little bit of this language.
 
     I would be happy if:
