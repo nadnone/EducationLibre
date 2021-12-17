@@ -93,7 +93,7 @@ Ce système est évolutif et grandit en fonction de ses adhérents et de son uti
 
 - La démultiplication des personnes morales, permettrait d'éviter une centralisation du système, de le rendre plus résilient, trés adaptatif et pourrait même favoriser une mixité sociale.
 
-- Le nombre arbitraire de 15 étudiants maximum pourrait favoriser un enseignement plus personalisé et de meilleure qualitée, ce nombre n'est pas minimal et on peut le dimunuer jusqu'à 2 personnes.
+- Le nombre arbitraire de 15 étudiants maximum pourrait favoriser un enseignement plus personalisé et de meilleure qualitée, ce nombre n'est pas minimal et on peut le diminuer jusqu'à 2 personnes.
 
 # Checklist
 - [ ] Documenter le projet
