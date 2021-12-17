@@ -11,6 +11,8 @@
 
     - https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/
     - https://www.slate.fr/story/134963/pourquoi-eleves-reussissent-pas-ecole
+    - https://www.bfs.admin.ch/bfs/fr/home/statistiques/education-science/indicateurs-formation/themes/acces-et-participation/origine-sociale-he.html
+    - https://www.bilan.ch/tv-bilan/la_mixite_sociale_tarde_a_gagner_l_universite_suisse
 
 - Les topologies réseau
 
