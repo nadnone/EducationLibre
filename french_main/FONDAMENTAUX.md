@@ -22,7 +22,7 @@
 
     * La négociation se fait entre l'enseignant et les étudiants du groupe, chaque groupe possède son propre contrat social.
 
-- Une personne incapable d'enseigner peut reçevoir des crédits virtuels en échange d'argent réelle à un taux accessible fixé par la personne morale.
+- Une personne incapable d'enseigner peut reçevoir des crédits virtuels en échange d'argent réelle à un taux accessible fixé par la personne morale. (je doute fort qu'un étudiant soit incapable d'enseigner quelque chose)
 
 - L'étudiant peut devenir enseignant, l'enseignant peut devenir étudiant. Une évaluation des connaissances de l'enseignant potentiel dans la matière qu'il souhaite enseigner et faite au préalable par ses pairs.
 

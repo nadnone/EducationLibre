@@ -82,6 +82,19 @@ Ce système est évolutif et grandit en fonction de ses adhérents et de son uti
 
 - [Plus d'information en annexe](./SCHEMAS.md)
 
+
+# Hypothèses
+
+- Le contrat social préalable permetrait de rendre explicite les attentes implicites, ces dernières sont à mon avis cause de beaucoup d'echecs.
+
+- Le système de crédit favoriserait le switch enseignant/étudiant et donc valoriserait une coopération plutôt qu'une compétition.
+
+- La démultiplication des matières permetrait d'étudier et revoir des chapitres non-acquis sans déranger le groupe initial.
+
+- La démultiplication des personnes morales, permettrait d'éviter une centralisation du système, de le rendre plus résilient, trés adaptatif et pourrait même favoriser une mixité sociale.
+
+- Le nombre arbitraire de 15 étudiants maximum pourrait favoriser un enseignement plus personalisé et de meilleure qualitée, ce nombre n'est pas minimal et on peut le dimunuer jusqu'à 2 personnes.
+
 # Checklist
 - [ ] Documenter le projet
 - [ ] Trouver des adhérents
