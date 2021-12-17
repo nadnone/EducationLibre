@@ -50,7 +50,7 @@
 - Le stockage des informations telles que les crédits, les points de maitrise et d'aptitude à l'enseignement, les coordonés des membres, doivent satisfaire à une cybersécurité de dernière date. Un programme dédié et open-source est conçu à cet effet. Il en va de la pérénité ainsi que de la survie de ce système.
     - les informations des membres doivent être limitées, Nom, Prénom, éventuellement un identifiant lié à une autre base de donnée ailleurs. Le tout est de limiter l'accès à trop d'informations en cas d'attaque.
     
-    - L'idéal révé serait une solution BlockChain, que l'information ne puisse pas être modifié sans l'accord de la majorité des machines.
+    - L'idéal révé serait que l'information ne puisse pas être modifié sans l'accord de la majorité des machines.
 
     - Nous pouvons aussi imaginer un réseau interne fermé sur lequel se connectent les membres dans les locaux. Un rayon d'émission faible et une sécurité double (Mot de passe + validation SMS) avec impossibilité de connecter les machines connectés au réseau entre-elles. 
 
