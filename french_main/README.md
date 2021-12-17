@@ -7,22 +7,6 @@ Un système d'éducation adaptatif, évolutif et accessible, inspiré du modèle
 # Important
 - Ce projet ne véhicule aucune idéologie propre, il a pour but d'être un patch, un sous-système fonctionnant en parallèle d'un autre.
 
-# Préface
-    Cette idée n'est qu'utopique pour le moment, n'ayant émergé que depuis peu dans mon ésprit. 
-    
-    Libre à toute personne souhaitant la mettre en place d'utiliser ce repo GitHub afin de la déployer. 
-
-    Je suis accessible depuis mon site web dans contact: https://nadnone.ch
-
-    Ce système est initialement pensé pour une association
-    
-    Je serais heureux si vous m'aidiez:
-    1. à traduire ce projet dans votre langue d'origine et bien-sûr en anglais
-    2. à faire une simulation multi-agents de mon système
-    3. à me donner des retours, proposer des améliorations
-    4. à rendre le projet attractif
-    5. à m'aider à rendre ce document plus académiquement éligible
-
 # Tout d'abord, pourquoi ?
 - [Vous trouverez ici une explication de mon raisonnement personnel](./POURQUOI.md)
 

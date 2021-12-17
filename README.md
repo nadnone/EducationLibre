@@ -16,9 +16,15 @@
 
  This project is splitted in both languages, which are French and English. First because it was initially wrote in French, second because English is more spoken than French and I know a little bit of this language.
 
+    This is only an utopian idea at this point of time.
+
+    I'm reachable from GitHub or from my website https://nadnone.ch 
+
+    This was initially thought for an association.
+
     I would be happy if:
     1. You could help me to translate this project in your language, especially in English
-    2. You could make a simulation of my system using multi-agents system.
+    2. You could make a simulation of my system using "multi-agents system".
     3. You could give me feedbacks about this system, or suggest enhancements.
     4. You could help working on the Design, feel free to give me some advice.
     5. You could help me to make this document more academically eligible. 

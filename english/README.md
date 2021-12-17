@@ -6,24 +6,6 @@ A accessible, scalable and free system inspired by [BitTorrent procotol](https:/
 # Important
 - This system isn't based on any ideology, it was thought as a patch, a subsystem working in parallel of another.
 
-# Preface
-    This idea is only an Utopia at this point in time, it just grew in my mind a few days ago.
-
-    Free for everyone who wants to deploy this GitHub repository.
-
-    You can contact me by clicking the "Contact" button on my website: https://nadnone.ch
-
-    This system was initially thought for an association
-
-    I would be happy if:
-    1. You could help me to translate this project in your language, especially in English
-    2. You could make a simulation of my system using multi-agents system.
-    3. You could give me feedbacks about this system, or suggest enhancements.
-    4. You could help working on the Design, feel free to give me some advice.
-    5. You could help me to make this document more academically eligible. 
-
-
-
 # First of, Why ?
 - You can read more about [my reasoning](./EXPLANATION.md) here.
 
