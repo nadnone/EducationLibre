@@ -10,6 +10,7 @@
 - L’égalité des chances à l’école n’existe pas
 
     - https://www.osonscauser.com/legalite-des-chances-a-lecole-nexiste-pas-bourdieu-passeron-sociologie-01-osonscauser/
+    - https://www.slate.fr/story/134963/pourquoi-eleves-reussissent-pas-ecole
 
 - Les topologies réseau
 
