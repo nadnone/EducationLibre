@@ -1,0 +1,8 @@
+img { 
+    width: 75%; 
+    height: auto; 
+}
+img[alt="Contrat Creative Commons"] {
+    width: auto;
+    height: auto;
+}
