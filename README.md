@@ -18,8 +18,6 @@
 
     This is only an utopian idea at this point of time.
 
-    I'm reachable from GitHub or from my website https://nadnone.ch 
-
     This was initially thought for an association.
 
     I would be happy if:
